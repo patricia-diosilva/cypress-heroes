@@ -1,0 +1,27 @@
+{
+    "signIn": {
+        "email": "test@test.com",
+        "password": "test123"
+    },
+    "signInFail": {
+        "email": "teste@testcom",
+        "password": "test"
+    },
+    "incompleteSignIn": {
+        "email": " ",
+        "password": " "
+    },
+    "adminSignIn": {
+        "email": "admin@test.com",
+        "password": "test123"
+    },
+
+        "newHero": {
+        "name": "Super Paw",
+        "price": "33",
+        "fans": "33",
+        "saves": 333,
+        "powers": "6"
+        }
+
+}

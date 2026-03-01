@@ -33,5 +33,8 @@
   },
   "prisma": {
     "schema": "server/prisma/schema.prisma"
+  },
+  "dependencies": {
+    "cypress": "^15.11.0"
   }
 }

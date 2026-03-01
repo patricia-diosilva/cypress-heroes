@@ -3,5 +3,5 @@
   "compilerOptions": {
     "isolatedModules": false
   },
-  "include": ["."]
+  "include": [".", "../../cypress/e2e/novoheroi.specs.ts", "../../cypress/e2e/login.specs.ts", "../../cypress/e2e/listagem.specs.ts", "../../cypress/e2e/controle.specs.ts"]
 }
